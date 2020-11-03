@@ -16,3 +16,10 @@ Complete this method so that it returns the largest value in the list of integer
 
 `removeMatching()`
 Complete this method so that it removes any item matching the String parameter.
+
+### Testing
+
+If you want to run the tests yourself before committing and pushing to GitHub you can do the following steps.
+
+1. In the REPL window press Ctrl-Shift-S to open the shell window.
+2. In the shell window type "mvn test" to run the tests.
